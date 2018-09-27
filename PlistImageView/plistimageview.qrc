@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>D:/tmp/sss/shell32/.rsrc/ICON/1951.ico</file>
+        <file>D:/tmp/sss/shell32/.rsrc/ICON/1586.ico</file>
+        <file>D:/tmp/sss/shell32/.rsrc/ICON/1959.ico</file>
+    </qresource>
+</RCC>
